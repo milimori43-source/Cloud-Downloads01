@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2877",
+  "folder": "YouTube__watch_20260619161531_6bb42f",
+  "base_name": "Session200_Unit_1_Top_Notch_3A_Lesson_2_200_1_3_2_zI_UDcb1B4k_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/milimori43-source/Cloud-Downloads01/releases/tag/co-releases-v1-2877",
+  "files": [
+    {
+      "name": "Session200_Unit_1_Top_Notch_3A_Lesson_2_200_1_3_2_zI_UDcb1B4k_720p.mp4",
+      "url": "https://github.com/milimori43-source/Cloud-Downloads01/releases/download/co-releases-v1-2877/Session200_Unit_1_Top_Notch_3A_Lesson_2_200_1_3_2_zI_UDcb1B4k_720p.mp4",
+      "api_url": "https://api.github.com/repos/milimori43-source/Cloud-Downloads01/releases/assets/452315551",
+      "id": 452315551,
+      "size": 130704902,
+      "download_count": 0
+    }
+  ]
+}

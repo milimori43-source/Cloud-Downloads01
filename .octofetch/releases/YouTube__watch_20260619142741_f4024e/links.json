@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2310",
+  "folder": "YouTube__watch_20260619142741_f4024e",
+  "base_name": "Session_196_Unit_10_Top_Notch_2B_Review_196_10_2_ICAc0tTGiOU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/milimori43-source/Cloud-Downloads01/releases/tag/co-releases-v1-2310",
+  "files": [
+    {
+      "name": "Session_196_Unit_10_Top_Notch_2B_Review_196_10_2_ICAc0tTGiOU_720p.mp4",
+      "url": "https://github.com/milimori43-source/Cloud-Downloads01/releases/download/co-releases-v1-2310/Session_196_Unit_10_Top_Notch_2B_Review_196_10_2_ICAc0tTGiOU_720p.mp4",
+      "api_url": "https://api.github.com/repos/milimori43-source/Cloud-Downloads01/releases/assets/452241774",
+      "id": 452241774,
+      "size": 68738005,
+      "download_count": 0
+    }
+  ]
+}

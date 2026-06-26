@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1050",
+  "folder": "YouTube__watch_20260626114219_5ab8cd",
+  "base_name": "Ayan_Babakisiyeva_-_Ya_Ona_Don_Ya_Meni_Sev_2026_(Official_Video)_7XuoZuT1CY4_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/milimori43-source/Cloud-Downloads01/releases/tag/co-releases-v1-1050",
+  "files": [
+    {
+      "name": "Ayan_Babakisiyeva_-_Ya_Ona_Don_Ya_Meni_Sev_2026_.Official_Video._7XuoZuT1CY4_1080p.mp4",
+      "url": "https://github.com/milimori43-source/Cloud-Downloads01/releases/download/co-releases-v1-1050/Ayan_Babakisiyeva_-_Ya_Ona_Don_Ya_Meni_Sev_2026_.Official_Video._7XuoZuT1CY4_1080p.mp4",
+      "api_url": "https://api.github.com/repos/milimori43-source/Cloud-Downloads01/releases/assets/458591533",
+      "id": 458591533,
+      "size": 157612213,
+      "download_count": 0
+    }
+  ]
+}

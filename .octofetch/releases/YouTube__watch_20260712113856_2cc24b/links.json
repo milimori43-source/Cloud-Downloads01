@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8718",
+  "folder": "YouTube__watch_20260712113856_2cc24b",
+  "base_name": "M_tan_t_sg_nd_rli_ft_Tural_Qism_t_-_Dilo_Dilo_(Official_Video)_2KfKWsLAD98_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/milimori43-source/Cloud-Downloads01/releases/tag/co-releases-v1-8718",
+  "files": [
+    {
+      "name": "M_tan_t_sg_nd_rli_ft_Tural_Qism_t_-_Dilo_Dilo_.Official_Video._2KfKWsLAD98_1080p.mp4",
+      "url": "https://github.com/milimori43-source/Cloud-Downloads01/releases/download/co-releases-v1-8718/M_tan_t_sg_nd_rli_ft_Tural_Qism_t_-_Dilo_Dilo_.Official_Video._2KfKWsLAD98_1080p.mp4",
+      "api_url": "https://api.github.com/repos/milimori43-source/Cloud-Downloads01/releases/assets/474348815",
+      "id": 474348815,
+      "size": 140972896,
+      "download_count": 0
+    }
+  ]
+}
